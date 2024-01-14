@@ -28,7 +28,7 @@ This Python script utilizes the `forex_python` library to perform real-time curr
     
     Enter the amount to convert.
     
-    View the Result:
+**View the Result:**
     
     The script will display the converted amount.
 
@@ -40,8 +40,7 @@ This Python script utilizes the `forex_python` library to perform real-time curr
     
     Enter the amount: 1000
 
-    Output:
-    
+**Output:**
     1000 USD is equal to 870.00 EUR
 
 ## Notes
