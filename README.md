@@ -14,18 +14,17 @@ This Python script utilizes the `forex_python` library to perform real-time curr
 
 # Install Dependencies:
 
-    ``
+    
 
     pip install forex-python
 
 ## Run the Script:
 
-    ``
     python currency_converter.py
 
 
 ## Follow the Prompts:
-    ``
+    
     Enter the original currency (e.g., USD, EUR).
     Enter the final currency (e.g., JPY, GBP).
     Enter the amount to convert.
@@ -33,7 +32,7 @@ This Python script utilizes the `forex_python` library to perform real-time curr
     The script will display the converted amount.
 
 ## Example
-    ``
+    
     Enter the original currency: USD
     Enter the final currency: EUR
     Enter the amount: 1000
