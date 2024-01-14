@@ -41,6 +41,7 @@ This Python script utilizes the `forex_python` library to perform real-time curr
     Enter the amount: 1000
 
 **Output:**
+
     1000 USD is equal to 870.00 EUR
 
 ## Notes
